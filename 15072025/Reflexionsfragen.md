@@ -1,6 +1,6 @@
 # Was waren die wichtigsten Learnings aus den 3 Karrieretagen und wie setze ich diese konkret um?
 ## Karrieretag 1: Lernen zu Lernen
-    - 
+    - Ablenkungsfreie Umgebung schaffen.
 ## Karrieretag 2: Präsentationstraining
     - wichtiger als Fakten sind bei Präsentationen Emotionen, die man bei Menschen auslöst.
     - Menschen lieben Geschichten --> Meine Informationen mit persönlichen Geschichten verknüpfen.
